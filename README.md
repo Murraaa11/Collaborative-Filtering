@@ -1,5 +1,4 @@
-# Collaborative-Filtering
-## Comparison of Collaborative Filtering Algorithms: Weighted Bipartite Graph Projection and Alternating Least Squares
+# Comparison of Collaborative Filtering Algorithms: Weighted Bipartite Graph Projection and Alternating Least Squares
 
 The project aimed to compare the performance of two different collaborative filtering methods in aspect of
 prediction accuracy and time efficiency. The two approaches chosen in this project were the weighted bipartite
